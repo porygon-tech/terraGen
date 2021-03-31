@@ -1,9 +1,9 @@
 # terraGen
 Realistic multipurpose random landscape generation project.
 
-##Erosion equation
+## Erosion equation
 
-##Water surface runoff pathfinding in discrete models
+## Water surface runoff pathfinding in discrete models
 
-##Purposes
+## Purposes
 Landscape generation for an incoming evolution simulator.
